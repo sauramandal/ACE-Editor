@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Description
+
+Develop a pseudo front end editor in React which would let the users code on the left and output the result on the right.
+This will be a HTML, CSS, JS editor like the one in W3 Schools.
+
+## Minimum Requirements
+
+- Embed ACE editor on the left part of the screen.
+- Display an IFrame on the right part of the screen.
+
 ## Available Scripts
 
 In the project directory, you can run:
